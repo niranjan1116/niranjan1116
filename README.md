@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Learning **Web technologies**
 
-- 👯 I’m learning from Alma better **and also other sources**
+- 👯 I’m learning from Alma better and also other sources
 
 - 📫 How to reach me **niranjanseervi@gmail.com**
 
