@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently Learning **Web technologies**
 
-- 👯 I’m learning it from Alma better **and also other sources**
+- 👯 I’m learning from Alma better **and also other sources**
 
 - 📫 How to reach me **niranjanseervi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niranjan seervi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan seervi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/niranjan-seervi-00827717b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niranjan-seervi-00827717b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjan1116&show_icons=true&locale=en" alt="niranjan1116" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan1116&" alt="niranjan1116" /></p>
+
